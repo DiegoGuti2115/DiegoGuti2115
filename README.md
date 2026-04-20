@@ -1,29 +1,100 @@
-# 🤖 Diego Gutiérrez | AI Industrial Convergence Architect
+<div align="center">
 
-Especialista en el diseño y despliegue de sistemas agénticos de **Nivel 3** con un enfoque radical en la gobernanza, la seguridad y la certificación autónoma de software.
+# 🤖 Diego Gutiérrez
+### AI Industrial Convergence Architect · Roo-Code Agentic Workflows
+**CS Student @ URJC Madrid** · Building autonomous systems that ship real code
 
-## 🛡️ Proyecto Destacado: TITAN (Autonomous DevSecOps AI)
-TITAN no es un simple generador de código; es un **ecosistema de certificación multi-agente** diseñado para eliminar el riesgo de los LLMs "Yes-Men" en entornos de producción industrial.
+[![X Follow](https://img.shields.io/badge/Follow_on_X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DiegoGuti2115)
+[![GitHub followers](https://img.shields.io/github/followers/DiegoGuti2115?style=for-the-badge&color=7F77DD)](https://github.com/DiegoGuti2115)
 
-### 🔬 Estrategia de Exposición y Propiedad Intelectual (IP)
-Siguiendo una metodología de desarrollo profesional, he dividido el proyecto en dos capas:
-
-* **[TITAN-Research-Lab](https://github.com/DiegoGuti2115/TITAN-Research-Lab):** Mi "cuaderno de bitácora" público. Aquí comparto la investigación, la arquitectura conceptual, diagramas de flujo y los retos de seguridad superados. Es el espacio para el debate técnico y la validación de conceptos.
-* **TITAN Engine (Propiedad Intelectual):** El motor de producción, optimizado con **SecurityMemory** y lógica de autocuración, se mantiene en un **repositorio privado**. Esta decisión protege el secreto industrial y garantiza que la innovación se mantenga bajo control.
-
-### 🚀 Capacidades de TITAN
-- **Gobernanza Autónoma:** Un "Council" de agentes que audita cada línea de código.
-- **Validación Determinista:** Integración de barreras SAST en el flujo agéntico.
-- **Certificación en Tiempo Real:** Capacidad de autorreparación antes de que el código llegue a producción.
+</div>
 
 ---
 
-## 🛠️ Stack & Investigación
-* **Orquestación:** LangGraph / Multi-Agent Systems.
-* **Seguridad:** Hardening de LLMs y mitigación de alucinaciones/CVEs.
-* **Visión:** Evolución hacia arquitecturas en C++ para maximizar el rendimiento industrial.
+## 🧠 What I'm building
 
-📫 **¿Quieres ver a TITAN en acción?**
-Por seguridad, no distribuyo el binario ni el código fuente. Realizo demostraciones técnicas mediante grabaciones asépticas de terminal (**asciinema**). Si eres un investigador o partner potencial, contacta conmigo por privado para coordinar una demo o solicitar acceso al paper técnico.
+I'm obsessed with one question: **how far can you push an AI agent before it can replace an entire dev workflow?**
 
-[LinkedIn](www.linkedin.com/in/diego-gutiérrez-sicre-42a355372) | [DevLog 06 - El Salto al Nivel 3](https://www.linkedin.com/posts/diego-guti%C3%A9rrez-sicre-42a355372_ai-agenticworkflows-devsecops-activity-7409956136180895744-4GmZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFw-fSIBClq1HSB7rhG_4pEkv-YiEDVV8pM)
+My answer so far — pretty far. I work at the intersection of **agentic AI, DevSecOps automation, and local LLMs**, using [Roo-Code](https://github.com/RooVetGit/Roo-Code) as my primary orchestration layer.
+
+> *"Copilot suggests. Roo-Code ships."*
+
+---
+
+## 🚀 Flagship Project: TITAN — Autonomous DevSecOps AI
+
+> **TITAN is not a code generator. It's a multi-agent certification ecosystem** designed to eliminate the "Yes-Man LLM" risk in industrial production environments.
+
+| Layer | What it does |
+|---|---|
+| 🏛️ **Autonomous Governance** | A Council of agents that audits every line of code before it ships |
+| 🔬 **Deterministic Validation** | SAST barriers integrated directly into the agentic flow |
+| 🔁 **Real-time Self-healing** | Auto-repair logic triggers before code ever reaches production |
+
+**Repos:**
+- [`TITAN-Research-Lab`](https://github.com/DiegoGuti2115) — Public research log: architecture, flow diagrams, security challenges
+- `TITAN-Engine` — Production core with SecurityMemory logic *(private — IP protected)*
+
+---
+
+## 🛠️ Roo-Code Resource Hub
+
+I publish everything I learn about Roo-Code — configs, Custom Modes, MCP setups — openly and for free.
+
+```
+📁 roo-code-configs/
+├── 📄 custom-modes/
+│   ├── security-auditor.md      # OWASP Top 10 auto-checker
+│   ├── docs-writer.md           # Auto-generates README + JSDoc
+│   └── architect-reviewer.md   # System design critique mode
+├── 📄 mcp-setups/
+│   ├── postgres-mcp.md          # Schema-aware coding setup
+│   └── github-mcp.md            # Issue → PR automation
+└── 📄 model-benchmarks/
+    └── cost-per-task.md         # Deepseek vs GPT-4o vs Ollama
+```
+
+> ⭐ **Star the repo** if you find a config useful — it helps others find it.
+
+---
+
+## 📊 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**AI layer:** Roo-Code · MCP Protocol · Ollama · Deepseek · Claude · GPT-4o
+
+---
+
+## 📬 Content I publish weekly
+
+| Platform | What you'll find |
+|---|---|
+| 🐦 [X / Twitter](https://x.com/DiegoGuti2115) | Agentic workflow threads, cost benchmarks, build-in-public updates |
+| 💻 [GitHub](https://github.com/DiegoGuti2115) | Free configs, Custom Modes, open-source agentic tooling |
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoGuti2115&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoGuti2115&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
+</div>
+
+---
+
+<div align="center">
+
+*CS student. Learning in public. Sharing everything.*
+**📧 d.gutierrezs.2023@alumnos.urjc.es**
+
+</div>
