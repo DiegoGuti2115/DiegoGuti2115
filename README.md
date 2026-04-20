@@ -4,7 +4,7 @@
 ### AI Industrial Convergence Architect · Roo-Code Agentic Workflows
 **CS Student @ URJC Madrid** · Building autonomous systems that ship real code
 
-[![X Follow](https://img.shields.io/badge/Follow_on_X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DiegoGuti2115)
+[![X Follow](https://img.shields.io/badge/Follow_on_X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/guti10_FT)
 [![GitHub followers](https://img.shields.io/github/followers/DiegoGuti2115?style=for-the-badge&color=7F77DD)](https://github.com/DiegoGuti2115)
 
 </div>
