@@ -75,7 +75,7 @@ I publish everything I learn about Roo-Code — configs, Custom Modes, MCP setup
 
 | Platform | What you'll find |
 |---|---|
-| 🐦 [X / Twitter](https://x.com/DiegoGuti2115) | Agentic workflow threads, cost benchmarks, build-in-public updates |
+| 🐦 [X / Twitter](https://x.com/guti10_FT) | Agentic workflow threads, cost benchmarks, build-in-public updates |
 | 💻 [GitHub](https://github.com/DiegoGuti2115) | Free configs, Custom Modes, open-source agentic tooling |
 
 ---
